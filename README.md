@@ -18,6 +18,8 @@ A complete technical specification (full data-element schemas, code tables, and 
 
 - `proposed-standard-async-care-transactions.pdf` — the paper (read this)
 - `proposed-standard-async-care-transactions.docx` — source document
+- `ieee-formatted-transactions.docx` — draft formatted for IEEE Transactions submission
+- `ieee-formatted-magazine.docx` — draft formatted for IEEE Magazine submission
 
 ## Next Steps
 
