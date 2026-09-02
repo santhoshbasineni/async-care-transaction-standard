@@ -20,6 +20,7 @@ A complete technical specification (full data-element schemas, code tables, and 
 - `proposed-standard-async-care-transactions.docx` — source document
 - `ieee-formatted-transactions.docx` — draft formatted for IEEE Transactions submission
 - `ieee-formatted-magazine.docx` — draft formatted for IEEE Magazine submission
+- `ieee-formatted-jbhi.docx` — draft formatted for IEEE Journal of Biomedical and Health Informatics (JBHI) submission
 
 ## Next Steps
 
